@@ -1,10 +1,12 @@
 <img src="9960913.jpg"/>
 
 # Hey! 👋
+## Glad to see you 
 
-# Welcome to my GitHub Profile
- Sulaiman Aziz Student of Web Development in Spiced Academy, Freelance Journalist, PHotographer with RSF
+# I am Sulaiman Aziz
 
+- Student of Web Development @ Spiced Academy 
+- Example Example Text Example Text 
 
 # skill
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
