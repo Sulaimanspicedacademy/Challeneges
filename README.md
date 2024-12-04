@@ -8,4 +8,6 @@
 - Student of Web Development @ Spiced Academy 
 - Example Example Text Example Text 
 
-# skill
+# Skill
+
+[![My Skills](https://skillicons.dev/icons?i=ps,)](https://skillicons.dev)
