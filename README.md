@@ -9,4 +9,3 @@
 - Example Example Text Example Text 
 
 # skill
-[![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
