@@ -1,4 +1,5 @@
-<img src="repo cover.jpg"/>
+![Image](C:\Users\Sulaiman\web-bootcamp\web-challenges\solymanaziz\images)
+
 
 # Hey! 👋
 
