@@ -1,4 +1,4 @@
-![Image](C:\Users\Sulaiman\web-bootcamp\web-challenges\solymanaziz\images)
+<img src="C:\Users\Sulaiman\web-bootcamp\web-challenges\solymanaziz\images\repocover.jpg" alt="">
 
 
 # Hey! 👋
