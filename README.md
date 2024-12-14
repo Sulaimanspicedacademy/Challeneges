@@ -1,4 +1,4 @@
-<img src="9960913.jpg"/>
+<img src="repo cover.jpg"/>
 
 # Hey! 👋
 
