@@ -1,5 +1,4 @@
-![Uploading Repo cover.jpg…]()
-
+![alt text](repocover.jpg)
 
 # Hey! 👋
 
