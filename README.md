@@ -1,4 +1,4 @@
-![Banner](./repocover.jpg)
+![Uploading Repo cover.jpg…]()
 
 
 # Hey! 👋
