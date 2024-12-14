@@ -1,6 +1,4 @@
-
-
-<img src="C:\Users\Sulaiman\web-bootcamp\web-challenges\solymanaziz\images\repocover.jpg" alt="">
+![Banner](./repocover.jpg)
 
 
 # Hey! 👋
